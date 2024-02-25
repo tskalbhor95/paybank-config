@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
+    name: "Tushar kalbhor - QA Lead"
     email: "{cipher}92f925d62ee63ce860138b1fcbcf64e5deb3ba9ff00cc16fe05e3aac3a16741796b06ab34866c0e170620cadbb4145a0"
   onCallSupport:
     - (666) 265-3765
